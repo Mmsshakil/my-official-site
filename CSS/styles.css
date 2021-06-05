@@ -7,6 +7,7 @@ body {
 }
 
 .color{
+  margin-top:0;
   height: 5px;
   width: 100%;
   background-image:linear-gradient(to right, violet , indigo, blue, green,yellow, orange,red);
@@ -49,6 +50,7 @@ a:hover{
   background-color: #caf7e3;
   position: relative;
   padding-top: 100px;
+  margin-bottom: 0;
 
 }
 .intro{
