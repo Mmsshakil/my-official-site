@@ -62,6 +62,10 @@ a:hover{
 margin: 100px 0;
 }
 
+.profile{
+margin: 100px 0 auto;
+}
+
 .bottom-container {
   color: #11999E;
   background-color: #66BFBF;
