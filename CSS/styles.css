@@ -4,8 +4,15 @@ body {
   font-family: 'Merriweather', serif;
   color: #40514E;
 
-
 }
+
+.color{
+  height: 5px;
+  width: 100%;
+  background-image:linear-gradient(to right, violet , indigo, blue, green,yellow, orange,red);
+  margin-top: 0;
+}
+
 
 h1 {
   font-size: 5.625rem; /*---16px = 1rem = 100% = 1em-----*/
@@ -42,6 +49,7 @@ a:hover{
   background-color: #caf7e3;
   position: relative;
   padding-top: 100px;
+  margin-bottom:0;
 }
 .intro{
   width: 30%;
